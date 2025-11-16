@@ -148,7 +148,7 @@ Microgestures unlock a new paradigm for hand-tracked interaction on Meta devices
 Additionally, by decoupling movement logic via locomotion events, the system maintains clean architecture: gesture detection emits events, and locomotor components respond to them to perform movement. 
 
 * https://developers.meta.com/horizon/documentation/unity/unity-isdk-locomotion-microgestures/
-* Create Locomotion Interactions
+* Create Hotspot Locomotion Interactions
 * https://developers.meta.com/horizon/documentation/unity/unity-isdk-create-locomotion-interactions
 
 ---
