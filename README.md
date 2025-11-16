@@ -141,6 +141,18 @@ These elements are optimized for hand proximity, poke depth, pointer accuracy, a
 
 ---
 
+## Microgestures Locomotion
+
+Microgestures are refined thumb swipes and taps on the side of the index finger, allowing for intuitive, low-fatigue D-pad–style input without the need for traditional controllers. By integrating this feature, developers can offer users a more natural way to move and turn in VR, using just their hands. 
+Microgestures unlock a new paradigm for hand-tracked interaction on Meta devices. Rather than relying on large hand motions or physical controllers, users can perform teleportation by tapping and rotate by swiping their thumb. This “tap-to-teleport, swipe-to-turn” input scheme aligns with familiar, spatially compact interface styles and reduces motion fatigue. 
+Additionally, by decoupling movement logic via locomotion events, the system maintains clean architecture: gesture detection emits events, and locomotor components respond to them to perform movement. 
+
+* https://developers.meta.com/horizon/documentation/unity/unity-isdk-locomotion-microgestures/
+* Create Locomotion Interactions
+* https://developers.meta.com/horizon/documentation/unity/unity-isdk-create-locomotion-interactions
+
+---
+
 ## Unity XR Interaction Toolkit 
 
 * The **XR Interaction Toolkit** is a high-level, component-based system for building VR and AR interactions in Unity. 
