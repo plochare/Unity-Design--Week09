@@ -91,6 +91,8 @@ The UI Set is ideal for dashboards, menus, panels, buttons, sliders, and any int
 
 * UI Set Elements
 * https://developers.meta.com/horizon/documentation/unity/unity-isdk-uiset/
+* UI Input Canvas Prefabs
+* https://developers.meta.com/horizon/documentation/unity/unity-isdk-create-ui/
 
 ---
 
